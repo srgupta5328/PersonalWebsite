@@ -22,6 +22,11 @@ theme = "aerial"
   link = "https://twitter.com/Rohan_Gupta6"
 
 [[params.social]]
+    medium = "Instagram"
+    icon = "instagram"
+    link = "https://www.instagram.com/swarnendu_rohan/"
+
+[[params.social]]
   medium = "Linkedin"
   icon = "linkedin"
   link = "https://www.linkedin.com/in/rohan-gupta-27b5b768/"
