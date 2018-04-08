@@ -1,6 +1,6 @@
 languageCode = "en-us"
-title = "Aerial"
-baseurl = "http://example.org/"
+title = "Rohan's Website"
+baseurl = "https://swarnendurohangupta.netlify.com"
 theme = "aerial"
 
 [params]
