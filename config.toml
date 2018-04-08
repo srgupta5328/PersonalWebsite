@@ -11,20 +11,12 @@ theme = "aerial"
   bg_scroll = ""
   favicon = "favicon.ico"
 
-[[params.social]]
-  medium = "Facebook"
-  icon = "facebook"
-  link = "https://www.facebook.com/S.RohanG6"
 
 [[params.social]]
   medium = "Twitter"
   icon = "twitter"
   link = "https://twitter.com/Rohan_Gupta6"
 
-[[params.social]]
-    medium = "Instagram"
-    icon = "instagram"
-    link = "https://www.instagram.com/swarnendu_rohan/"
 
 [[params.social]]
   medium = "Linkedin"
