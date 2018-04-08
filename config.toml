@@ -1,15 +1,20 @@
 languageCode = "en-us"
 title = "Rohan's Website"
-baseurl = "https://ecstatic-mestorf-9e21f1.netlify.com/"
+baseurl = "https://swarnendurohanguptawebsite.firebaseapp.com/"
 theme = "aerial"
 
 [params]
   name = "Swarnendu Rohan Gupta"
   about = "Full Stack Developer &nbsp;&bull;&nbsp; World Traveller &nbsp;&bull;&nbsp; Excited for new challenges"
-  copyright = "Untitled"
+  copyright = "2018"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
   favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/S.RohanG6"
 
 [[params.social]]
   medium = "Twitter"
@@ -30,4 +35,4 @@ theme = "aerial"
 [[params.social]]
   medium = "Email"
   icon = "envelope-o"
-  link = "srgupta5328@gmail.com"
+  link = "https://srgupta5328@gmail.com"
